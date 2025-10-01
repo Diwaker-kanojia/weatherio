@@ -23,7 +23,7 @@ A modern and responsive weather dashboard built using **HTML, CSS, and JavaScrip
 
 ## 📸 Screenshots
 
-![Weather Dashboard Preview](assets/userInterface.png)
+![Weather Dashboard Preview](assest/userInterface.png)
 
 ## ⚡ How to Run
 
