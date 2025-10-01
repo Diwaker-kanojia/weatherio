@@ -2,6 +2,10 @@
 
 A modern and responsive weather dashboard built using **HTML, CSS, and JavaScript**.
 
+## 🚀 Live Demo
+
+Check out the live version of Weatherio [here](https://weatherio-diwaker.netlify.app/).
+
 ## 🚀 Features
 
 - Real-time weather data using **OpenWeather API**
