@@ -32,3 +32,8 @@ A modern and responsive weather dashboard built using **HTML, CSS, and JavaScrip
    git clone https://github.com/your-username/weatherio.git
    Open index.html in your browser
    Add your own OpenWeather API key in the script
+
+## 🔑 API Setup
+- Sign up at OpenWeather
+- Generate an API key
+- Replace YOUR_API_KEY in the JavaScript file
