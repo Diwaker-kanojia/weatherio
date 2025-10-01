@@ -37,3 +37,7 @@ A modern and responsive weather dashboard built using **HTML, CSS, and JavaScrip
 - Sign up at OpenWeather
 - Generate an API key
 - Replace YOUR_API_KEY in the JavaScript file
+
+  <div align="center">
+   Made with ❤️ by Diwaker Kanojia
+  </div>
